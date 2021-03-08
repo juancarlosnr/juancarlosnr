@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**juancarlosnr/juancarlosnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hello, my name is Juan Carlos !
 ### I am a Spanish developer 👨🏻‍💻
