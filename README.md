@@ -3,8 +3,8 @@
 ### I am a Spanish developer 👨🏻‍💻
 &nbsp;
 ## ABOUT ME: 
-#### · I love playing videogames 🎮, tecnology and science 🖥️🤖
-#### · I love clean code and MVVM 🎥🍿
+#### · I love tecnology and science 🖥️
+#### · I love clean code and MVVM 🎥
 #### · And I am a very competitive person💣
 &nbsp;
 ## DEVELOPMENT KNOWLEDGE:
