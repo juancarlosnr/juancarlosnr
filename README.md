@@ -25,5 +25,5 @@ And more...
 &nbsp;
 ### If you want to contact me find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@juancarlos_nr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/juancarlos_nr)
-[![Instagram](https://img.shields.io/badge/Instagram-@juancarlosvillal-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/juancarlosvilal)
+[![Instagram](https://img.shields.io/badge/Instagram-@juancarlosnr_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/juancarlosnr_)
 [![Email](https://img.shields.io/badge/juancarlosnr17@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juancarlosnr17@gmail.com)
