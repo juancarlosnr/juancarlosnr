@@ -21,7 +21,6 @@ And more...
 &nbsp;
 ## FUTURE LEARNING PLANS: 
 #### · Currently, I am learning how to use Kotlin in Android.   
-#### · Study DAM 
 &nbsp;
 ### If you want to contact me find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@juancarlos_nr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/juancarlos_nr)
