@@ -27,3 +27,5 @@ And more...
 [![Twitter](https://img.shields.io/badge/Twitter-@juancarlos_nr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/juancarlos_nr)
 [![Instagram](https://img.shields.io/badge/Instagram-@juancarlosnr_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/juancarlosnr_)
 [![Email](https://img.shields.io/badge/Email-juancarlosnr17@gmail.com_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juancarlosnr17@gmail.com)
+<a href="https://www.linkedin.com/in/juan-carlos-navarro-rubio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
